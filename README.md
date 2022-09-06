@@ -17,4 +17,7 @@
 5*  Ejecutamos nuestro test con (npm test) o (npm run test:watch) pero este ultimo ejecutará el test en modo watcher y cada cambio volverá  ejecutarlo.
 
 Salida:
+
+
+
 ![2022-09-06 (2)](https://user-images.githubusercontent.com/78904114/188622523-dcb527c8-444b-41fc-bd36-5446b9f9290a.png)
